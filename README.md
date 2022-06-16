@@ -6,7 +6,7 @@ The sneakers market is one of the most important trends nowadays. Besides the us
 
 ### Usage
 
-Let's explain how to use the system.
+Let's explain how to use the system:
 
 * ```BlockchainCode```: Contains the code used to implement the blockchain to authenticate. Just run blockchain.py to start working with it. 
 * ```SmartContract```: Contains the scripts used to create, deploy, mine the NFT Smart Contract.
