@@ -8,9 +8,11 @@ The sneakers market is one of the most important trends nowadays. Besides the us
 
 Let's explain how to use the system:
 
-* ```FlighPriceBLQ-BVA.ipynb```: Extract flights for the next N days from the date of tracking. You can arbitraly change the arrival and departure airport and the amount of days to track (if the number is too high you risk to loose some flights). 
-* ```Merge&CleanDataset.ipynb```: Merge the .csv files to create a unique file and clean it. 
-* ```AirFlightPrice.ipynb```: It's the core of the system. Here you preprocess data, train model and evaluate them.
-
+* ```BlockchainCode```: Contains the code used to implement the blockchain to authenticate. Just run blockchain.py to start working with it. 
+* ```SmartContract```: Contains the scripts used to create, deploy, mine the NFT Smart Contract.
+* ```TryQRCode```: Running the read.py code you can check if the QRCode is Authentic or not by checking the blockchain data. The folder contains an example of authentic QRCode and one of fake. 
+* ```BlockChainSneakersAuthentication.pdf```: Paper to explain the whole system.
+* ```GAN_NFT.ipynb```: Notebook to train the GAN and to create the NFT image (with Style Transfer).
+* ```blockchain_sneakers_authentication.pptx```: Presentation of the work. 
 
 
